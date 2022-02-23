@@ -1,5 +1,7 @@
 ### JOÁS AQUI 👋
 
+![Snake animation](https://github.com/joasrs01/joasrs01/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **joasrs01/joasrs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
